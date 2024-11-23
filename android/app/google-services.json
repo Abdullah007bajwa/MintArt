@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3715899816",
+    "project_id": "mintart-602c3",
+    "storage_bucket": "mintart-602c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3715899816:android:96507c80a7cb1cb40f7d9d",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3715899816-82j5phj3vjtgmv4i8pk2ucd9thdlkqk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3CORgpIS7RoULy1Vu-ae9A3uspOlz0kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3715899816-82j5phj3vjtgmv4i8pk2ucd9thdlkqk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

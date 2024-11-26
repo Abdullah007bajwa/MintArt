@@ -14,7 +14,7 @@
 - **Responsive UI**: A modern, user-friendly design that updates the token balance in real time.
 - **Secure Payment Gateway**: A future feature to allow users to purchase more tokens via a secure payment integration.
 - **Token Management**: The app includes backend validation for token usage to ensure security and a smooth user experience.
-- **Cross-Platform**: Built with Flutter, MintArt is ready to provide a smooth experience on both iOS and Android.
+- **Cross-Platform**: Built with Flutter, MintArt is ready to provide a smooth experience on both Web and Android.
 
 ---
 

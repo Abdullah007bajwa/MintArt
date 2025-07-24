@@ -1,0 +1,3 @@
+# Optional if you want a config file:
+vercel config set buildCommand "flutter build web"
+vercel config set outputDirectory "build/web"
